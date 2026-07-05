@@ -816,6 +816,138 @@ Evaluate the long-term sustainability of a startup by designing a business model
 - Screenshots
 - README.md
 
+- # Day 25 – AI Shark Tank Simulator
+
+## 📌 Overview
+Built an AI-powered Shark Tank Simulator that evaluates startup ideas through interactive investor conversations. The simulator asks business-related questions, analyzes responses, and generates investment recommendations with detailed scoring.
+
+## 🚀 Features
+- Interactive AI investor panel
+- Startup evaluation scorecard
+- Investment recommendation
+- Valuation and funding analysis
+- Pitch report generation
+- Leaderboard functionality
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Key Learnings
+- Understanding investor thinking
+- Startup pitching strategies
+- Business evaluation techniques
+- Interactive web application development
+
+---
+
+# Day 26 – Prior Authorization Workflow Simulator
+
+## 📌 Overview
+Developed an interactive healthcare workflow simulator to demonstrate the complete Prior Authorization process through visual workflow stages and educational explanations.
+
+## 🚀 Features
+- Patient workflow simulation
+- Drag-and-drop interactions
+- Prior Authorization request builder
+- Multiple workflow outcomes
+- Progress tracking
+- Educational healthcare insights
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Key Learnings
+- Healthcare operational workflows
+- Prior Authorization process
+- Workflow simulation design
+- Interactive UI development
+
+---
+
+# Day 27 – Prior Authorization Story Simulator
+
+## 📌 Overview
+Created a conversational healthcare education simulator that teaches Prior Authorization using an interactive story-based experience with branching decisions.
+
+## 🚀 Features
+- Interactive story chapters
+- Healthcare conversations
+- Progress tracking
+- Multiple decision paths
+- Educational takeaways
+- Responsive interface
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Key Learnings
+- Story-driven learning
+- Conversational UI design
+- Healthcare education
+- Interactive application development
+
+---
+
+# Day 28 – Hospital Admission Readiness Simulator
+
+## 📌 Overview
+Built a Hospital Admission Readiness Simulator that evaluates documentation, insurance, prior authorization, and operational readiness before hospital admission.
+
+## 🚀 Features
+- Admission readiness analysis
+- Risk assessment
+- Workflow improvement actions
+- Governance snapshot
+- Readiness score
+- Final admission decision
+
+## 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Key Learnings
+- Hospital admission workflow
+- Healthcare documentation
+- Risk management
+- Interactive healthcare simulation
+
+---
+
+# Day 29 – Operation Lifeline: Supply Chain Crisis Lab
+
+## 📌 Overview
+Developed an enterprise-level Supply Chain Crisis Simulator where users manage operational disruptions, negotiate with suppliers, answer executive leadership questions, and implement AI-driven business strategies.
+
+## 🚀 Features
+- Random company profile generation
+- Dynamic supply chain crisis scenarios
+- Crisis response planning
+- Supplier negotiation simulation
+- CEO leadership assessment
+- AI investment strategy
+- Executive performance dashboard
+- Personalized recommendations
+
+## 🛠️ Technologies
+- React (CDN)
+- HTML
+- CSS
+- JavaScript
+
+## 📚 Key Learnings
+- Supply chain crisis management
+- Enterprise decision making
+- AI applications in operations
+- Leadership strategy
+- React-based single-page application development
+
 ## 🎯 Challenge
 
 **ABTalks 60-Day Claude AI Mastery Challenge**
@@ -846,6 +978,11 @@ Continuously building AI-powered projects to strengthen practical skills in AI, 
 ✅ Day 22 Completed
 ✅ Day 23 Completed
 ✅ Day 24 Completed
+✅ Day 25 Completed
+✅ Day 26 Completed
+✅ Day 27 Completed
+✅ Day 28 Completed
+✅ Day 29 Completed
   
    
 
